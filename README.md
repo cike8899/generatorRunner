@@ -1,0 +1,1 @@
+探索es6 generator
